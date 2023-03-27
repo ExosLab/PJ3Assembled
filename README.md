@@ -17,7 +17,7 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * Techo: Mun Kon Wawa, Mun Kon Tawa, Mun Telo Tawa Kiwen Lete, Mun Lupa Mute, Mun Lete Kon, Blast, Veladris c, Waive, Mustooine d
 * Mh: Agho 
 * Interplanet Janet: Farnsworth
-* Marshall (Myth): 
+* Marshall (Myth): Part of Mustooine Team Planning
 * Luna/Gregrox: Andor
 * Tholin: Harb, Rito and procedural elements on Indillo and Syme
 * Caps Lock: Indillo
