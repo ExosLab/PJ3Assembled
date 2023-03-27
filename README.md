@@ -13,17 +13,17 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 # CREDITS:
 * Wolf-Rayet/Exo's Lab: Project coordinator. System layout planner. Doe, Tuft, Roe, Sutapasu, Uldella
 * Cloverdove: Arida 
-* The Orios: 
-* Techo: Mun Kon Wawa, Mun Kon Tawa, Mun Telo Tawa Kiwen Lete, Mun Lupa Mute, Mun Lete Kon, Blast
+* The Orios: Veladris, Mustooine d
+* Techo: Mun Kon Wawa, Mun Kon Tawa, Mun Telo Tawa Kiwen Lete, Mun Lupa Mute, Mun Lete Kon, Blast, Veladris c, Waive, Mustooine d
 * Mh: Agho 
 * Interplanet Janet: Farnsworth
 * Marshall (Myth): Sandevistan, Montauk & Tremelo
 * Luna/Gregrox: Andor
-* Tholin: Harb and Rito
-* Caps Lock: 
+* Tholin: Harb, Rito and procedural elements on Indillo and Syme
+* Caps Lock: Indillo
 * Sabine: Antether, Rachess, Maaldach, Exakra Din, Vemeng, Skal
-* ElectricPants: 
-* Minmus: 
+* ElectricPants: Syme 
+* Minmus: Veladris, Veladris c
 * Hubb/Cass: Roffulo
 
 Special Thanks to Adstri for the Mun Kon Wawa-Mun Kon Tawa System names, and Apollo for help on Sutapasu
