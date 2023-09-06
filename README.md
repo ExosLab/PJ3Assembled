@@ -8,7 +8,7 @@ Planet Jam 3 -- the sequel Planet Jam 2 and threequel to Week World Planet Jam, 
 * Scatterer: https://github.com/LGhassen/Scatterer/releases/
 * Environmental Visual Enhancements Redux: https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/
 
-Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are required for the mod to work.
+Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are required for the mod to work. <-- this was the policy for PJ2 because Scatter makes multistar lighting look actually good, I kept this in because we do indeed still have more than one star but like, I won't tell anyone you know?
 
 # CREDITS:
 * Wolf-Rayet/Exo's Lab: Project coordinator. System layout planner. Doe, Tuft, Roe, Sutapasu, Uldella
