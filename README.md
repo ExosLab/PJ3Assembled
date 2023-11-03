@@ -8,13 +8,13 @@ Planet Jam 3 -- the sequel Planet Jam 2 and threequel to Week World Planet Jam, 
 * Scatterer: https://github.com/LGhassen/Scatterer/releases/
 * Environmental Visual Enhancements Redux: https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/
 
-Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are required for the mod to work. <-- this was the policy for PJ2 because Scatter makes multistar lighting look actually good, I kept this in because we do indeed still have more than one star but like, I won't tell anyone you know?
+Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are required for the mod to work. <-- this was the policy for PJ2 because Scatter makes multistar lighting look actually good, I kept this in because we do indeed still have more than one star but like, I won't tell anyone if you decide not to use visual mods, you know?
 
 # CREDITS:
-* Wolf-Rayet/Exo's Lab: Project coordinator. System layout planner. Doe, Tuft, Roe, Sutapasu, Uldella
-* Cloverdove: Arida 
-* The Orios: Veladris, Mustooine d
-* Techo: Mun Kon Wawa, Mun Kon Tawa, Mun Telo Tawa Kiwen Lete, Mun Lupa Mute, Mun Lete Kon, Blast, Veladris c, Waive, Mustooine d
+* Wolf-Rayet/Exo's Lab: Project coordinator. System layout planner. Doe, Tuft, Roe, Whitetail, Pudu, Muntjac, Sutapasu, Uldella
+* Cloverdove: Arida, Biomemap Contributions
+* The Orios: Veladris, Inda
+* Techo: Mun Kon Wawa, Mun Kon Tawa, Mun Telo Tawa Kiwen Lete, Mun Lupa Mute, Mun Lete Kon, Blast, Ember, Peekon, Telavon, Waive, Inda, Blasteroid Belt, Visual Mod Help
 * Mh: Agho 
 * Interplanet Janet: Farnsworth
 * Marshall (Myth): Part of Mustooine Team Planning
@@ -23,7 +23,7 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * Caps Lock: Indillo
 * WarriorSabe/Sabine: Antether, Rachess, Maaldach, Exakra Din, Vemeng, Skal
 * ElectricPants: Syme 
-* Minmus: Veladris, Veladris c
+* Minmus: Veladris, Telavon
 * Hubb/Cass: Roffulo
 
 Special Thanks to Adstri for the Mun Kon Wawa-Mun Kon Tawa System names, and Apollo for help on Sutapasu
