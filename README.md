@@ -12,9 +12,9 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 
 # CREDITS:
 * Wolf-Rayet/Exo's Lab: Project coordinator. System layout planner. Doe, Tuft, Roe, Whitetail, Pudu, Muntjac, Sutapasu, Uldella
-* Cloverdove: Arida 
+* Cloverdove: Arida, Biomemap Contributions
 * The Orios: Veladris, Inda
-* Techo: Mun Kon Wawa, Mun Kon Tawa, Mun Telo Tawa Kiwen Lete, Mun Lupa Mute, Mun Lete Kon, Blast, Ember, Peekon, Telavon, Waive, Inda, Blasteroid Belt
+* Techo: Mun Kon Wawa, Mun Kon Tawa, Mun Telo Tawa Kiwen Lete, Mun Lupa Mute, Mun Lete Kon, Blast, Ember, Peekon, Telavon, Waive, Inda, Blasteroid Belt, Visual Mod Help
 * Mh: Agho 
 * Interplanet Janet: Farnsworth
 * Marshall (Myth): Part of Mustooine Team Planning
